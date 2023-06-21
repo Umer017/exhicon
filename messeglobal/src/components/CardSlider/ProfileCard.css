@@ -1,0 +1,22 @@
+.profile-card {
+    margin-bottom: 20px;
+  }
+  
+  .profile-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #f8f9fa;
+  }
+  
+  .profile-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
